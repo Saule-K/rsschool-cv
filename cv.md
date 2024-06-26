@@ -46,6 +46,22 @@ MAY 2008 - SEPTEMBER 2009
 - Oversaw organizational processes, including budgeting, data management, and communications with stakeholders.
 - Managed a team of junior managers, ensuring productivity and achieving recruitment targets.
 
+## EDUCATION ##  
+**Suleyman Demirel University, Almaty** - *Bachelor Degree in Foreign Philology, 2008*
+
+
+**Université d'été de Boulogne sur mere** - *French language courses, certificate, 2007*
+
+## LANGUAGES ##
+Kazakh - C2  
+Russian - C2  
+English - C1  
+French - B1  
+Turkish - B1  
+Polish - B1  
+Spanish - B1  
+
+
 
 
 
