@@ -1,0 +1,92 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+    color: white;
+    font-weight: 300;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+/* .work-experince {
+    display: flex;
+    gap: 10px;
+} */
+
+.work-experince p {
+    background-color: lightskyblue;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.profile-photo {
+    height: 250px;
+    width: 192px;
+    border-radius: 30px;
+padding: 0;
+padding-bottom: 10px;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 180% 180%;
+    animation: gradient 18s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.cv-container {
+    width: 85%;
+    max-width: 1250;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.address-and-photo {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 4;
+}
+
+.items {
+    flex-grow: 4;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer a {
+    padding-top: 15px;
+}
